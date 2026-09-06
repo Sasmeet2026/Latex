@@ -1,0 +1,93 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{\huge Experiment No. 1}
+\author{\large Sasmeet Vishwakarma}
+\date{September 2026}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+{\large Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed for every task.
+
+Machine Learning is widely used in many fields such as healthcare, finance, education, transportation, and entertainment.}
+
+\section{Types of Machine Learning}
+
+{\large There are mainly three types of Machine Learning.}
+
+\subsection{Supervised Learning}
+
+{\large In supervised learning, the machine is trained using labelled data. 
+The algorithm learns the relationship between input and output and uses it to make predictions for new data.}
+
+Examples of supervised learning include:
+\begin{itemize}
+    \item Linear Regression
+    \item Logistic Regression
+    \item Decision Trees
+    \item Support Vector Machines
+\end{itemize}
+
+\subsection{Unsupervised Learning}
+
+{\large In unsupervised learning, the machine works with unlabelled data. }
+The algorithm tries to find hidden patterns or groups in the data.
+
+Examples include:
+\begin{itemize}
+    \item Clustering
+    \item K-Means Algorithm
+    \item Principal Component Analysis
+\end{itemize}
+
+\subsection{Reinforcement Learning}
+
+{\large Reinforcement learning is a type of Machine Learning in which an agent learns by interacting with an environment.
+
+The agent receives rewards for correct actions and penalties for incorrect actions.}
+
+\section{Applications of Machine Learning}
+
+{\large Machine Learning has many real-world applications.}
+
+\subsection{Healthcare}
+
+{\large Machine Learning can help doctors analyse medical data, identify diseases, and predict patient outcomes.}
+
+\subsection{Finance}
+
+{\large Banks and financial institutions use Machine Learning for fraud detection, risk analysis, and credit scoring.}
+
+\subsection{Education}
+
+{\large Machine Learning can be used to create personalised learning systems and analyse student performance.}
+
+\subsection{Entertainment}
+
+{\large Streaming platforms use Machine Learning to recommend movies, music, and other content based on user preferences.}
+
+\section{Advantages of Machine Learning}
+
+{\large Some important advantages of Machine Learning are:}
+
+\begin{itemize}
+    \item It can analyse large amounts of data quickly.
+    \item It can automate repetitive tasks.
+    \item It can identify complex patterns in data.
+    \item It can improve predictions over time.
+\end{itemize}
+
+\section{Conclusion}
+
+{\large Thus we have successfully created a document using section, subsection and text formatting.
+
+Sasmeet Vishwakarma
+
+PRN NO-26070521351
+
+03-09-2026}
+
+\end{document}
